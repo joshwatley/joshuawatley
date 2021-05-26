@@ -167,7 +167,7 @@ const Projects = () => {
                   >
                     <div className="project-wrapper__image2">
                       <a
-                        href="Another test repo"
+                        href="https://github.com/joshwatley/Kanban-Board-Final-Year-Project"
                         target="_blank"
                         aria-label="Project Link"
                         rel="noopener noreferrer"
@@ -245,7 +245,7 @@ const Projects = () => {
                   >
                     <div className="project-wrapper__image2">
                       <a
-                        href="Another test repo"
+                        href="https://github.com/joshwatley/HadoopAnagram"
                         target="_blank"
                         aria-label="Project Link"
                         rel="noopener noreferrer"

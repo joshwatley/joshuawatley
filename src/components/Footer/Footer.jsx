@@ -39,7 +39,7 @@ const Footer = () => {
         <hr />
         <p className="footer__text">
           {new Date().getFullYear()} -  Developed by{' '}
-          <a href="https://joshwatley.github.io" target="_blank" rel="noopener noreferrer">
+          <a href="https://joshwatley.netlify.app" target="_blank" rel="noopener noreferrer">
             Josh Watley
           </a>
         </p>
