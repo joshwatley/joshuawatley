@@ -2,9 +2,9 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Joshua Watley | Web Developer', // e.g: 'Name | Developer'
+  title: 'Joshua Watley | Web Developer',
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Welcome to my web development portfolio', // e.g: Welcome to my website
+  description: 'Welcome to my web development portfolio', 
 };
 
 // HERO DATA
@@ -30,9 +30,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'portfolio_v2.png',
     title: 'Portfolio v2',
-    info: 'This is the current iteration of my personal portfolio. I started learning React to expand my skills and deploy something I would instantly use. This site was developed using Gatsby and then hosted through GitHub.',
+    info: 'This is the current iteration of my personal portfolio. I started learning React to expand my skills and deploy something I would instantly use. This site was developed using Gatsby and then hosted through Netlify.',
     info2: '',
-    url: '',
+    url: 'https://joshwatley.netlify.app',
     repo: 'https://github.com/joshwatley/joshuawatley',
   },
  
@@ -40,19 +40,19 @@ export const projectsData = [
     id: nanoid(),
     img: 'portfolio_v1.png',
     title: 'Portfolio v1',
-    info: 'This was my first iteration of my portfolio. This was a static webpage using HTML, CSS and JQuery for some very simple animations. This was the first in depth websites I created, it allowed me to spend more time learning the ins and outs of basic web design.',
+    info: 'This was my first iteration of my portfolio. This was a static webpage using HTML, CSS and JQuery for some very simple animations. Creating myself my first portfolio was in itself a big project, this will be a good basis to build upon in the future.',
     info2: '',
-    url: '',
+    url: 'https://joshwatley.github.io',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'error.png',
     title: '"theBubble" Cryptocurrency Course (Still in development)',
-    info: 'This was a project I undertook for a small company, create a one product store using react/gatsby, alot of the focus on this project was having a proffessional looking UI. While not completley confident in react this was a fun project that challenged me alot',
+    info: 'This was a project I undertook for a small business, creating a one product store using react/gatsby allowing them to sell their course, alot of the focus on this project was having a proffessional looking UI. While being coming increasingly confident in React this was a fun project that challenged me.',
     info2: '',
-    url: '',
-    repo: '',
+    url: 'https://theBubble.netlify.app',
+    repo: 'https://github.com/joshwatley/theBubble_Crypto_Course',
   },
    
   {
@@ -80,8 +80,8 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: 'https://www.twitter.com',
+      name: 'instagram',
+      url: 'https://www.instagram.com/jw.codes',
     },
     {
       id: nanoid(),
