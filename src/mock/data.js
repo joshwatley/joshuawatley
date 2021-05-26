@@ -33,7 +33,7 @@ export const projectsData = [
     info: 'This is the current iteration of my personal portfolio. I started learning React to expand my skills and deploy something I would instantly use. This site was developed using Gatsby and then hosted through GitHub.',
     info2: '',
     url: '',
-    repo: '',
+    repo: 'https://github.com/joshwatley/joshuawatley',
   },
  
   {
