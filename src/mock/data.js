@@ -28,25 +28,6 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'error.png',
-    title: '"theBubble" Cryptocurrency Course (Still in development)',
-    info: 'This was a project I undertook for a small company, create a one product store using react/gatsby, alot of the focus on this project was having a proffessional looking UI. While not completley confident in react this was a fun project that challenged me alot',
-    info2: '',
-    url: '',
-    repo: '',
-  },
-   
-  {
-    id: nanoid(),
-    img: 'error.png',
-    title: 'Freelance Web Developer Site (Still in development)',
-    info: 'This was a store landing page for a freelance Web Developer developed in Wordpress. For me, this was a big opportunity to get hands on experience using a CMS and allowed me to learn through making many mistakes while using wordpress',
-    info2: '',
-    url: '',
-    repo: '', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'portfolio_v2.png',
     title: 'Portfolio v2',
     info: 'This is the current iteration of my personal portfolio. I started learning React to expand my skills and deploy something I would instantly use. This site was developed using Gatsby and then hosted through GitHub.',
@@ -64,6 +45,26 @@ export const projectsData = [
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'error.png',
+    title: '"theBubble" Cryptocurrency Course (Still in development)',
+    info: 'This was a project I undertook for a small company, create a one product store using react/gatsby, alot of the focus on this project was having a proffessional looking UI. While not completley confident in react this was a fun project that challenged me alot',
+    info2: '',
+    url: '',
+    repo: '',
+  },
+   
+  {
+    id: nanoid(),
+    img: 'error.png',
+    title: 'Freelance Web Developer Site (Still in development)',
+    info: 'This was a store landing page for a freelance Web Developer developed in Wordpress. For me, this was a big opportunity to get hands on experience using a CMS and allowed me to learn through making many mistakes while using wordpress',
+    info2: '',
+    url: '',
+    repo: '', // if no repo, the button will not show up
+  },
+
 
 ];
 
