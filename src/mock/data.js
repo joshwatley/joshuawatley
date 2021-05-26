@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://pdfhost.io/v/LXLD1btyz_Joshua_Watley_CVpdf.pdf', // if no resume, the button will not show up
+  resume: 'https://pdfhost.io/v/Kyzj7UHau_Joshua_Watley_CVpdf.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
