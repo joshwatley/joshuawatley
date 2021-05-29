@@ -32,6 +32,7 @@ export const projectsData = [
     title: 'Portfolio v2',
     info: 'This is the current iteration of my personal portfolio. I started learning React to expand my skills and deploy something I would instantly use. This site was developed using Gatsby and then hosted through Netlify.',
     info2: '',
+    skills: 'HTML / CSS  /  JS  /  ReactJS  /  Gatsby',
     url: 'https://joshwatley.netlify.app',
     repo: 'https://github.com/joshwatley/joshuawatley',
   },
@@ -42,6 +43,7 @@ export const projectsData = [
     title: 'Portfolio v1',
     info: 'This was my first iteration of my portfolio. This was a static webpage using HTML, CSS and JQuery for some very simple animations. Creating myself my first portfolio was in itself a big project, this will be a good basis to build upon in the future.',
     info2: '',
+    skills: 'HTML / CSS  /  JS',
     url: 'https://joshwatley.github.io',
     repo: 'https://github.com/joshwatley/joshwatley.github.io', // if no repo, the button will not show up
   },
@@ -51,6 +53,7 @@ export const projectsData = [
     title: '"theBubble" Cryptocurrency Course (Still in development)',
     info: 'This was a project I undertook for a small business, creating a one product store using react/gatsby allowing them to sell their course, alot of the focus on this project was having a proffessional looking UI. While being coming increasingly confident in React this was a fun project that challenged me.',
     info2: '',
+    skills: 'HTML / CSS  /  JS  /  ReactJS',
     url: 'https://joshwatley.netlify.app/pagedoesnotexist',
     repo: 'https://github.com/joshwatley/theBubble_Crypto_Course',
   },
@@ -61,6 +64,7 @@ export const projectsData = [
     title: 'Freelance Web Developer Site (Still in development)',
     info: 'This was a store landing page for a freelance Web Developer developed in WordPress. For me, this was a big opportunity to get hands on experience using a CMS and allowed me to learn through making many mistakes while using WordPress.',
     info2: '',
+    skills: 'CSS  /  WordPress',
     url: 'https://joshwatley.netlify.app/pagedoesnotexist',
     repo: '', // if no repo, the button will not show up
   },

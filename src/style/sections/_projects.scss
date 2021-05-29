@@ -74,6 +74,12 @@
       }
     }
 
+    .project-wrapper-skills > p{
+      font-family: 'Courier Prime', monospace !important;
+      color: grey;
+      font-size: 2em;
+    }
+
     &__image {
       width: 90%;
       margin: 0 auto;
@@ -159,7 +165,9 @@
 }
 
 
-.project2-wrapper {
+
+
+.project2-wrapper > p {
   margin-bottom: 15rem;
 
   @include respond(phone) {

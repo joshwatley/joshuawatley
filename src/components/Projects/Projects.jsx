@@ -30,7 +30,7 @@ const Projects = () => {
         <div className="project-wrapper">
           <Title title="Featured Web Projects" />
           {projects.map((project) => {
-            const { title, info, info2, url, repo, img, id } = project;
+            const { title, info, info2, skills, url, repo, img, id } = project;
 
             return (
               <Row key={id}>
@@ -50,6 +50,11 @@ const Projects = () => {
                             'LOREM KASJDLKASJDLKASJ DLKASJ DLKASJ DKLAJ SDLKAJ SLKDAJSKLDJA '}
                         </p>
                         <p className="mb-4">{info2 || ''}</p>
+                      </div>
+
+                      <div className="project-wrapper-skills">
+                            <p>{skills ||'Add your skills'}</p>
+
                       </div>
                       <a
                         target="_blank"
