@@ -80,3 +80,68 @@
     }
   }
 }
+
+
+
+.skill-wrapper {
+  background-color: lightblue;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.skill-wrapper > .row{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+.skill-wrapper > p {
+  color: $dark_main;
+  margin: auto;
+}
+
+#java {
+  margin-top: 2px;
+  max-height: 90%;
+}
+
+#photoshop {
+  margin-top: 7px;
+  max-height: 80%;
+}
+
+#python {
+  max-height: 80%;
+}
+
+
+.skill-icon{
+  background-color: transparent;
+  align-items: center;
+  // border: 3px solid grey;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px;
+  height: 90px;
+
+  @include respond(phone) {
+    display: flex;
+    margin: auto;
+  }
+
+}
+
+.img-responsive{
+  max-height: 100%;
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
+}
+
+.img-responsive:hover {
+  -webkit-filter: grayscale(0);
+  transition: all .2s ease-in;
+  filter: none;
+}

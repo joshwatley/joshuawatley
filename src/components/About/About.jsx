@@ -3,6 +3,19 @@ import Fade from 'react-reveal/Fade';
 import { Container, Row, Col } from 'react-bootstrap';
 import Title from '../Title/Title';
 import AboutImg from '../Image/AboutImg';
+import css from './skills/css.png'
+import github from './skills/github.png'
+import pshop from './skills/photoshop.png'
+import html from './skills/html.png'
+import java from './skills/java.png'
+import python from './skills/python.png'
+import js from './skills/js.png'
+
+
+import photoshop from './skills/photoshop.png'
+
+
+
 import PortfolioContext from '../../context/context';
 
 const About = () => {
@@ -39,7 +52,7 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    'Hardworking and determined, I am a developer who enjoys finding problems and coming up with solutions. I have been coding for over 5 years with experience using a range of different technologies, and constantly looking to learn more.'}
+                    'Hardworking and determined, I am a young developer who enjoys finding problems and coming up with solutions.'}<br></br><br></br>{'I have enjoyed creating with code for over 7 years and with that has come experience using a range of different technologies, and I am always looking to learn more!'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
@@ -48,6 +61,23 @@ const About = () => {
                 <p className="about-wrapper__info-text">
                   {paragraphThree || 'Thank you for checking out my site, download my CV below!'}
                 </p>
+
+                {/* this will be the my skills/technology icons */}
+                <div className='skill-wrapper'>
+                  <p>Technologies I've worked with: </p>
+                <div className="row">
+                          <div className="skill-icon"><img className="img-responsive" src={html} id="html"></img></div>
+                          <div className="skill-icon"><img className="img-responsive" src={css} id="css"></img></div>
+                          <div className="skill-icon"><img className="img-responsive" src={js} id="js"></img></div>
+                          <div className="skill-icon"><img className="img-responsive" src={java} id="java"></img></div>
+                          <div className="skill-icon"><img className="img-responsive" src={pshop} id="photoshop"></img></div>
+                          <div className="skill-icon"><img className="img-responsive" src={python} id="python"></img></div>
+                </div>  
+                </div>  
+
+
+
+
                 {resume && (
                   <span className="d-flex mt-3">
                     <a

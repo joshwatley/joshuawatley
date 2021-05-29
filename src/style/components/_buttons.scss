@@ -105,11 +105,11 @@
   border: 2px solid $light_main;
 
   &::after {
-    background: $white-color;
+    background: $light_main;
   }
 
   &:hover {
-    color: $secondary-color;
+    -webkit-text-fill-color: $dark_main;
     text-decoration: none;
 
     &::after {
