@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
+    "build": "npx gatsby build",
     "develop": "gatsby develop",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
@@ -65,13 +65,9 @@
     }
   },
   "lint-staged": {
-    "*.+(js|jsx)": [
-      "eslint --fix",
-      "git add"
-    ],
+    "*.+(js|jsx)": [],
     "*.+(json|css|md)": [
-      "prettier --write",
-      "git add"
+      "prettier --write"
     ]
   }
 }
