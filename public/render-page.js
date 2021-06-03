@@ -123,13 +123,13 @@ var plugins = [{
     "background_color": "#fff",
     "theme_color": "#02aab0",
     "display": "standalone",
-    "icon": "src/images/favicon.png",
+    "icon": "src/images/",
     "legacy": true,
     "theme_color_in_head": true,
     "cache_busting_mode": "query",
     "crossOrigin": "anonymous",
     "include_favicon": true,
-    "cacheDigest": "2266a03886e56d5b828ce4dd360553a4"
+    "cacheDigest": null
   }
 }]; // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

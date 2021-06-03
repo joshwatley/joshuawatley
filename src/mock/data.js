@@ -49,9 +49,9 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'error.png',
+    img: 'theBubble.png',
     title: '"theBubble" Cryptocurrency Course (Still in development)',
-    info: 'This was a project I undertook for a small business, creating a one product store using react/gatsby allowing them to sell their course, alot of the focus on this project was having a proffessional looking UI. While being coming increasingly confident in React this was a fun project that challenged me.',
+    info: 'This was a project I undertook for a small business, creating a semi-working prototype in React, showcasing an idea that I had for their one product store website. Developed in React, I undertook a prototype design stage in AdobeXD before designing the site using React Styled-Componenets. Design process has been documented on GitHub.',
     info2: '',
     skills: 'HTML / CSS  /  JS  /  ReactJS',
     url: 'https://joshwatley.netlify.app/pagedoesnotexist',
