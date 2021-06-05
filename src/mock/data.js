@@ -62,9 +62,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'landingpage.png',
     title: 'Freelance Web Developer Email Landing Page',
-    info: 'This was a email landing page for a freelance Web Developer developed in React. Currently still in development, this will be used to retrieve potential clients emails in order to create an email list',
+    info: 'This was a email landing page for a freelance Web Developer developed in React. Currently still in development, this will be used to retrieve potential clients emails in order to create an email list.',
     info2: '',
-    skills: 'CSS  /  WordPress',
+    skills: 'HTML / CSS  /  JS  /  ReactJS',
     url: 'https://joshwatley.github.io/web_developer_landing_page/index.html',
     repo: 'https://github.com/joshwatley/web_developer_landing_page', // if no repo, the button will not show up
   },
