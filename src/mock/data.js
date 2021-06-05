@@ -60,13 +60,13 @@ export const projectsData = [
    
   {
     id: nanoid(),
-    img: 'error.png',
-    title: 'Freelance Web Developer Site (Still in development)',
-    info: 'This was a store landing page for a freelance Web Developer developed in WordPress. For me, this was a big opportunity to get hands on experience using a CMS and allowed me to learn through making many mistakes while using WordPress.',
+    img: 'landingpage.png',
+    title: 'Freelance Web Developer Email Landing Page',
+    info: 'This was a email landing page for a freelance Web Developer developed in React. Currently still in development, this will be used to retrieve potential clients emails in order to create an email list',
     info2: '',
     skills: 'CSS  /  WordPress',
-    url: 'https://joshwatley.netlify.app/pagedoesnotexist',
-    repo: '', // if no repo, the button will not show up
+    url: 'https://joshwatley.github.io/web_developer_landing_page/index.html',
+    repo: 'https://github.com/joshwatley/web_developer_landing_page', // if no repo, the button will not show up
   },
 
 

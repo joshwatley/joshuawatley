@@ -1,0 +1,66 @@
+{
+  "expireTime": 9007200877673694000,
+  "key": "8480568571a9bd1bb2ed6fb20de9145d",
+  "val": {
+    "name": "IMAGE_PROCESSING",
+    "inputPaths": [
+      "/Users/joshwatley/Desktop/Joshua_Watley/src/images/Screenshot 2021-06-05 at 23.38.10.png"
+    ],
+    "outputDir": "/Users/joshwatley/Desktop/Joshua_Watley/public/static/e2e31e3494341d8285385400ad01965f",
+    "args": {
+      "isLazy": false,
+      "operations": [
+        {
+          "outputPath": "8080f/Screenshot 2021-06-05 at 23.38.10.png",
+          "args": {
+            "width": 342,
+            "cropFocus": 17,
+            "toFormat": "png",
+            "fit": "cover",
+            "background": "rgba(0,0,0,1)"
+          }
+        },
+        {
+          "outputPath": "3ff62/Screenshot 2021-06-05 at 23.38.10.png",
+          "args": {
+            "width": 683,
+            "cropFocus": 17,
+            "toFormat": "png",
+            "fit": "cover",
+            "background": "rgba(0,0,0,1)"
+          }
+        },
+        {
+          "outputPath": "43fa5/Screenshot 2021-06-05 at 23.38.10.png",
+          "args": {
+            "width": 1366,
+            "cropFocus": 17,
+            "toFormat": "png",
+            "fit": "cover",
+            "background": "rgba(0,0,0,1)"
+          }
+        },
+        {
+          "outputPath": "eeb1b/Screenshot 2021-06-05 at 23.38.10.png",
+          "args": {
+            "width": 1920,
+            "cropFocus": 17,
+            "toFormat": "png",
+            "fit": "cover",
+            "background": "rgba(0,0,0,1)"
+          }
+        }
+      ],
+      "pluginOptions": {
+        "base64Width": 20,
+        "forceBase64Format": "",
+        "useMozJpeg": false,
+        "stripMetadata": true,
+        "lazyImageGeneration": true,
+        "defaultQuality": 50,
+        "failOnError": true,
+        "plugins": []
+      }
+    }
+  }
+}

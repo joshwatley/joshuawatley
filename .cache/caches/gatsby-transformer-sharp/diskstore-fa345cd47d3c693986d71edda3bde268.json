@@ -1,1 +1,11 @@
-{"expireTime":9007200877465494000,"key":"6af3d6e123026d4b9216161b5bfa3c74{\"background\":\"rgba(0,0,0,1)\",\"duotone\":false,\"grayscale\":false,\"rotate\":0,\"trim\":false,\"toFormat\":\"png\",\"toFormatBase64\":\"\",\"cropFocus\":17,\"fit\":\"cover\",\"width\":20,\"height\":12}","val":{"src":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAABiUlEQVQoz6WSW0/CQBCFq6BQkKRggSJpyiVi21AKpi0iKpcCamJENDEajDHqg7f//3rc3VJFRA3x4cvMzu6cuWS5VN5GKm9BVKpIFywkZBNC1lgIUakhWbBRd4fgQqkyPAyEkmWE0wahshARyQQX24TVOgcXkWiggmiGYiIqTezEj2SmMT1L46RwRPKgbwNxFXZ75Any5HJV1BkrooaVdRXBhMrOoYSOcFxDmNiQoDKfJxNREZpHof6ysIXd/iU4nlWqQDF6yGothlJ2kav0IWsdJGsdCA6hegBx7xAJxwUvVxEQSviczsQSEWwOrjxBGrDa16h3x9g/vkd3+ITe6IX5ztkDGjevcC4e4Yyf0bh9g31yhzxpwO/yi6A/ctZ0UWyeYsPosg6zWhuy3oGstlEs95HTXShqh/gD6M4QxdoR/Ny5gmvky8TUHUSVbbY/b5cas0G60yk/EC+xN/66vo3MRMmiefJt+JRX0d+PnxCVJnz8APP3DqcFZs9/Mb/DBUV+FPyv2KzgOzUfTGsBWO2dAAAAAElFTkSuQmCC","width":20,"height":12,"aspectRatio":1.6666666666666667,"originalName":"portfolio_v2.png"}}
+{
+  "expireTime": 9007200877673320000,
+  "key": "6af3d6e123026d4b9216161b5bfa3c74{\"background\":\"rgba(0,0,0,1)\",\"duotone\":false,\"grayscale\":false,\"rotate\":0,\"trim\":false,\"toFormat\":\"png\",\"toFormatBase64\":\"\",\"cropFocus\":17,\"fit\":\"cover\",\"width\":20,\"height\":12}",
+  "val": {
+    "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAABiUlEQVQoz6WSW0/CQBCFq6BQkKRggSJpyiVi21AKpi0iKpcCamJENDEajDHqg7f//3rc3VJFRA3x4cvMzu6cuWS5VN5GKm9BVKpIFywkZBNC1lgIUakhWbBRd4fgQqkyPAyEkmWE0wahshARyQQX24TVOgcXkWiggmiGYiIqTezEj2SmMT1L46RwRPKgbwNxFXZ75Any5HJV1BkrooaVdRXBhMrOoYSOcFxDmNiQoDKfJxNREZpHof6ysIXd/iU4nlWqQDF6yGothlJ2kav0IWsdJGsdCA6hegBx7xAJxwUvVxEQSviczsQSEWwOrjxBGrDa16h3x9g/vkd3+ITe6IX5ztkDGjevcC4e4Yyf0bh9g31yhzxpwO/yi6A/ctZ0UWyeYsPosg6zWhuy3oGstlEs95HTXShqh/gD6M4QxdoR/Ny5gmvky8TUHUSVbbY/b5cas0G60yk/EC+xN/66vo3MRMmiefJt+JRX0d+PnxCVJnz8APP3DqcFZs9/Mb/DBUV+FPyv2KzgOzUfTGsBWO2dAAAAAElFTkSuQmCC",
+    "width": 20,
+    "height": 12,
+    "aspectRatio": 1.6666666666666667,
+    "originalName": "portfolio_v2.png"
+  }
+}

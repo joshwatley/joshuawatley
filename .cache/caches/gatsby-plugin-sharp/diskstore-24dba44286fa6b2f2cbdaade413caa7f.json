@@ -1,0 +1,56 @@
+{
+  "expireTime": 9007200877673704000,
+  "key": "9926cc2c0ea8da8a19a3760edaf1bf68",
+  "val": {
+    "name": "IMAGE_PROCESSING",
+    "inputPaths": [
+      "/Users/joshwatley/Desktop/Joshua_Watley/src/images/landingpage.png"
+    ],
+    "outputDir": "/Users/joshwatley/Desktop/Joshua_Watley/public/static/e2e31e3494341d8285385400ad01965f",
+    "args": {
+      "isLazy": false,
+      "operations": [
+        {
+          "outputPath": "8080f/landingpage.png",
+          "args": {
+            "width": 342,
+            "cropFocus": 17,
+            "toFormat": "png",
+            "fit": "cover",
+            "background": "rgba(0,0,0,1)"
+          }
+        },
+        {
+          "outputPath": "3ff62/landingpage.png",
+          "args": {
+            "width": 683,
+            "cropFocus": 17,
+            "toFormat": "png",
+            "fit": "cover",
+            "background": "rgba(0,0,0,1)"
+          }
+        },
+        {
+          "outputPath": "eeb1b/landingpage.png",
+          "args": {
+            "width": 1920,
+            "cropFocus": 17,
+            "toFormat": "png",
+            "fit": "cover",
+            "background": "rgba(0,0,0,1)"
+          }
+        }
+      ],
+      "pluginOptions": {
+        "base64Width": 20,
+        "forceBase64Format": "",
+        "useMozJpeg": false,
+        "stripMetadata": true,
+        "lazyImageGeneration": true,
+        "defaultQuality": 50,
+        "failOnError": true,
+        "plugins": []
+      }
+    }
+  }
+}
