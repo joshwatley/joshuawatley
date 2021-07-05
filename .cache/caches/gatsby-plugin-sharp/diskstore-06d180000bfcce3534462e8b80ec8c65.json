@@ -1,0 +1,56 @@
+{
+  "expireTime": 9007200880254180000,
+  "key": "b2aec99d8d2442121fbb86f50d387bd5",
+  "val": {
+    "name": "IMAGE_PROCESSING",
+    "inputPaths": [
+      "/Users/joshwatley/Desktop/Joshua_Watley/src/images/tradingsharks.png"
+    ],
+    "outputDir": "/Users/joshwatley/Desktop/Joshua_Watley/public/static/643103a330e3700b1fc6c5abf251bbbc",
+    "args": {
+      "isLazy": false,
+      "operations": [
+        {
+          "outputPath": "8080f/tradingsharks.png",
+          "args": {
+            "width": 342,
+            "cropFocus": 17,
+            "toFormat": "png",
+            "fit": "cover",
+            "background": "rgba(0,0,0,1)"
+          }
+        },
+        {
+          "outputPath": "3ff62/tradingsharks.png",
+          "args": {
+            "width": 683,
+            "cropFocus": 17,
+            "toFormat": "png",
+            "fit": "cover",
+            "background": "rgba(0,0,0,1)"
+          }
+        },
+        {
+          "outputPath": "b8cab/tradingsharks.png",
+          "args": {
+            "width": 1919,
+            "cropFocus": 17,
+            "toFormat": "png",
+            "fit": "cover",
+            "background": "rgba(0,0,0,1)"
+          }
+        }
+      ],
+      "pluginOptions": {
+        "base64Width": 20,
+        "forceBase64Format": "",
+        "useMozJpeg": false,
+        "stripMetadata": true,
+        "lazyImageGeneration": true,
+        "defaultQuality": 50,
+        "failOnError": true,
+        "plugins": []
+      }
+    }
+  }
+}

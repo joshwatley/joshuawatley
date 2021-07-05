@@ -49,6 +49,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'tradingsharks.png',
+    title: 'Tradingsharks Business Site Prototype',
+    info: 'This was a prototype website for a small business involved in FX Trading. Before going live I offered a free prototype in order to give context to some of the design and components we were discussing. ',
+    info2: '',
+    skills: 'HTML / CSS  /  JS',
+    url: 'https://tradingsharks.netlify.app',
+   // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'theBubble.png',
     title: '"theBubble" Cryptocurrency Course (Still in development)',
     info: 'This was a project I undertook for a small business, creating a semi-working prototype in React, showcasing an idea that I had for their one product store website. Developed in React, I undertook a prototype design stage in AdobeXD before designing the site using React Styled-Componenets. Design process has been documented on GitHub.',
