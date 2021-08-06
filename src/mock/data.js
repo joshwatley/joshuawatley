@@ -40,7 +40,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'fypimage.jpeg',
     title: 'Dissertation University Project',
-    info: 'Achieved 71%. Kanban Board developed in Java for Android. Was a year spent undertaking end to end development including an extensive report, starting from requirements and research into design then implementation. Great experience learning and understanding NoSQL and Google Firebase.',
+    info: 'Achieved 1st Class Grading. Kanban Board developed in Java for Android. Was a year spent undertaking end to end development including an extensive report, starting from requirements and research into design then implementation. Great experience learning and understanding NoSQL and Google Firebase.',
     info2: '',
     skills: 'JAVA  /  ANDROID  /  FIREBASE  /  SQL',
     url: 'https://drive.google.com/file/d/1R90ezpre1juXIAtE-sYyBT0aCmthTtIG/view?usp=sharing',
