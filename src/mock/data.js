@@ -39,12 +39,12 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'fypimage.png',
-    title: 'Portfolio v2',
-    info: 'This is the current iteration of my personal portfolio. I started learning React to expand my skills and deploy something I would instantly use. This site was developed using Gatsby and then hosted through Netlify.',
+    title: 'Dissertation University Project',
+    info: 'Achieved 71%. Kanban Board developed in Java for Android. Was a year spent undertaking end to end development, starting from requirements and research into design then implementation. Great experience learning and understanding NoSQL and Google Firebase.',
     info2: '',
     skills: 'HTML / CSS  /  JS  /  ReactJS  /  Gatsby',
     url: 'https://joshwatley.netlify.app',
-    repo: 'https://github.com/joshwatley/joshuawatley',
+    repo: 'https://github.com/joshwatley/Kanban-Board-Final-Year-Project',
   },
   {
     id: nanoid(),
@@ -53,8 +53,8 @@ export const projectsData = [
     info: 'Minimalist start page inspired by r/startpages, built in React, helped develop further React practises and converting ideas to reality using CSS.',
     info2: '',
     skills: 'HTML / CSS  /  JS',
-    url: 'https://joshwatley.github.io',
-    repo: 'https://github.com/joshwatley/joshwatley.github.io', // if no repo, the button will not show up
+    url: 'mintabbyjw.netlify.app',
+    repo: 'https://github.com/joshwatley/minimal-tab-page', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
