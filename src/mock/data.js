@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://pdfhost.io/v/Kyzj7UHau_Joshua_Watley_CVpdf.pdf', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/17-9kZJiLcAGOSpvUST0OIajP4-rjrIGc/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -36,7 +36,26 @@ export const projectsData = [
     url: 'https://joshwatley.netlify.app',
     repo: 'https://github.com/joshwatley/joshuawatley',
   },
- 
+  {
+    id: nanoid(),
+    img: 'fypimage.png',
+    title: 'Portfolio v2',
+    info: 'This is the current iteration of my personal portfolio. I started learning React to expand my skills and deploy something I would instantly use. This site was developed using Gatsby and then hosted through Netlify.',
+    info2: '',
+    skills: 'HTML / CSS  /  JS  /  ReactJS  /  Gatsby',
+    url: 'https://joshwatley.netlify.app',
+    repo: 'https://github.com/joshwatley/joshuawatley',
+  },
+  {
+    id: nanoid(),
+    img: 'mintabpage.npg',
+    title: 'Minimalist New Tab',
+    info: 'Minimalist start page inspired by r/startpages, built in React, helped develop further React practises and converting ideas to reality using CSS.',
+    info2: '',
+    skills: 'HTML / CSS  /  JS',
+    url: 'https://joshwatley.github.io',
+    repo: 'https://github.com/joshwatley/joshwatley.github.io', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'portfolio_v1.png',
@@ -57,27 +76,27 @@ export const projectsData = [
     url: 'https://tradingsharks.netlify.app',
    // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'theBubble.png',
-    title: '"theBubble" Cryptocurrency Course (Still in development)',
-    info: 'This was a project I undertook for a small business, creating a semi-working prototype in React, showcasing an idea that I had for their one product store website. Developed in React, I undertook a prototype design stage in AdobeXD before designing the site using React Styled-Componenets. Design process has been documented on GitHub.',
-    info2: '',
-    skills: 'HTML / CSS  /  JS  /  ReactJS',
-    url: 'https://joshwatley.netlify.app/pagedoesnotexist',
-    repo: 'https://github.com/joshwatley/theBubble_Crypto_Course',
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'theBubble.png',
+  //   title: '"theBubble" Cryptocurrency Course (Still in development)',
+  //   info: 'This was a project I undertook for a small business, creating a semi-working prototype in React, showcasing an idea that I had for their one product store website. Developed in React, I undertook a prototype design stage in AdobeXD before designing the site using React Styled-Componenets. Design process has been documented on GitHub.',
+  //   info2: '',
+  //   skills: 'HTML / CSS  /  JS  /  ReactJS',
+  //   url: 'https://joshwatley.netlify.app/pagedoesnotexist',
+  //   repo: 'https://github.com/joshwatley/theBubble_Crypto_Course',
+  // },
    
-  {
-    id: nanoid(),
-    img: 'landingpage.png',
-    title: 'Freelance Web Developer Email Landing Page',
-    info: 'This was a email landing page for a freelance Web Developer developed in React. Currently still in development, this will be used to retrieve potential clients emails in order to create an email list.',
-    info2: '',
-    skills: 'HTML / CSS  /  JS  /  ReactJS',
-    url: 'https://joshwatley.github.io/web_developer_landing_page/index.html',
-    repo: 'https://github.com/joshwatley/web_developer_landing_page', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'landingpage.png',
+  //   title: 'Freelance Web Developer Email Landing Page',
+  //   info: 'This was a email landing page for a freelance Web Developer developed in React. Currently still in development, this will be used to retrieve potential clients emails in order to create an email list.',
+  //   info2: '',
+  //   skills: 'HTML / CSS  /  JS  /  ReactJS',
+  //   url: 'https://joshwatley.github.io/web_developer_landing_page/index.html',
+  //   repo: 'https://github.com/joshwatley/web_developer_landing_page', // if no repo, the button will not show up
+  // },
 
 
 ];

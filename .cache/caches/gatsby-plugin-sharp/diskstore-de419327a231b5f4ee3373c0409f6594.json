@@ -1,5 +1,5 @@
 {
-  "expireTime": 9007200877673703000,
+  "expireTime": 9007200882126261000,
   "key": "e9e4e90618b931832af5367804f1dd5a",
   "val": {
     "name": "IMAGE_PROCESSING",
@@ -14,16 +14,6 @@
           "outputPath": "82f56/landingpage.png",
           "args": {
             "width": 1106,
-            "cropFocus": 17,
-            "toFormat": "png",
-            "fit": "cover",
-            "background": "rgba(0,0,0,1)"
-          }
-        },
-        {
-          "outputPath": "eeb1b/landingpage.png",
-          "args": {
-            "width": 1920,
             "cropFocus": 17,
             "toFormat": "png",
             "fit": "cover",

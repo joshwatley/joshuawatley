@@ -1,5 +1,5 @@
 {
-  "expireTime": 9007200880254140000,
+  "expireTime": 9007200882126259000,
   "key": "ae0fbc3dc9ea1cfd111ce55153185559",
   "val": {
     "name": "IMAGE_PROCESSING",
@@ -14,16 +14,6 @@
           "outputPath": "82f56/tradingsharks.png",
           "args": {
             "width": 1106,
-            "cropFocus": 17,
-            "toFormat": "png",
-            "fit": "cover",
-            "background": "rgba(0,0,0,1)"
-          }
-        },
-        {
-          "outputPath": "b8cab/tradingsharks.png",
-          "args": {
-            "width": 1919,
             "cropFocus": 17,
             "toFormat": "png",
             "fit": "cover",

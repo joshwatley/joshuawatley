@@ -154,6 +154,35 @@
         },
         {
           "node": {
+            "relativePath": "index.js",
+            "name": "index",
+            "childImageSharp": null
+          }
+        },
+        {
+          "node": {
+            "relativePath": "404.js",
+            "name": "404",
+            "childImageSharp": null
+          }
+        },
+        {
+          "node": {
+            "relativePath": "tradingsharks.png",
+            "name": "tradingsharks",
+            "childImageSharp": {
+              "fixed": {
+                "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAADBklEQVQozyWSbWxTVRjH7xeNEvEFurG1vfe2a+92d9ve26537Vjp3qhssMEmbuOltqVr59rNiTrHMIAJiTEm0xA/YowmGvg2XkIGQYKJIX4RmAgsW9SQmBhe4/tbRMnPs/nhl5Nznpwnv/9zjpTs6Ka1owcr3ERFhVsgU13loXKNisMh43T6cIizJVatduKoVJDVOhTFh6r60DUDy1yLEbQxwgmk7FCRQnmM/u5OWqMhmsMBDLUK06OwcV0b7ckW6hUvQa+PgKrid7uo9flY3/Ma2wvvMZiZprOrm4HBXvq2TyLlh4uUx3eTTe8kprnRnU/hevIRIo5Knm3fQGPIxBImpjBqUP1Ybg96tYypxQhqTfjlEBUrHydimZRGdyPl8jnGRMNX90yxIbmWNmHY2mjRZcfY1reV7pZ2op5aQi4vAae6jF4lE3DLGC5hW1WN7lJpEUn6+weQCvkM5ZECI8UsExMv8/qB/ezbu4fJyUkK2Ryb4olluyXCHj8RgVGtYArbkGCpWdwME4s38XSqE6k8UuSF0jBDz/WTHthMbsdWipltjJYK7NjSQ6I+hC0MG1SNmMB0e4l4a4n6dGy/TkNNLV0d65EVRVgmkdK7CmSGy7z51ttMTx/i4ME3eGViiqFdGXrW2VgeDdtrEKsxaFb8NIs1YUSI1wUFgeWGz/T2stqp0TeQEzMUr/zS1H5Onj7HidlzvP/BR2K4o9imhb7GRVBEXYoWkGuIavUkAlGS9REs2UOjppOM2KRSKVY8VsGW3kGkF8slnh/Kk8tlBTnKo2OUxsZJtrbhcYl/+egK1FWVGCKq5fVjC6tUcxuZnXmOnvmc2S8WaWlPIUkS6bQwPDv3LYePHOPDmdMc/+wyn1y5wfn577l48y/OL9xifO8B6vw1PPHwQzQ1xDkye4FLt/7m6k8w/yss/gmnLn7NvncOM/fdD0hXf/6/cF0w/xtcE/uvfoS5uw+4Ji4t/A4zF67w7sczfLp4m4U/4Mt7D0T9Xy7fuc+l2/e5/gt88w/cEPf/AzfvvlWERSL2AAAAAElFTkSuQmCC",
+                "width": 350,
+                "height": 184,
+                "src": "/static/643103a330e3700b1fc6c5abf251bbbc/a5370/tradingsharks.png",
+                "srcSet": "/static/643103a330e3700b1fc6c5abf251bbbc/a5370/tradingsharks.png 1x,\n/static/643103a330e3700b1fc6c5abf251bbbc/88e49/tradingsharks.png 1.5x,\n/static/643103a330e3700b1fc6c5abf251bbbc/73c85/tradingsharks.png 2x"
+              }
+            }
+          }
+        },
+        {
+          "node": {
             "relativePath": "me.png",
             "name": "me",
             "childImageSharp": {
@@ -169,20 +198,6 @@
         },
         {
           "node": {
-            "relativePath": "index.js",
-            "name": "index",
-            "childImageSharp": null
-          }
-        },
-        {
-          "node": {
-            "relativePath": "404.js",
-            "name": "404",
-            "childImageSharp": null
-          }
-        },
-        {
-          "node": {
             "relativePath": "landingpage.png",
             "name": "landingpage",
             "childImageSharp": {
@@ -192,21 +207,6 @@
                 "height": 197,
                 "src": "/static/e2e31e3494341d8285385400ad01965f/a5370/landingpage.png",
                 "srcSet": "/static/e2e31e3494341d8285385400ad01965f/a5370/landingpage.png 1x,\n/static/e2e31e3494341d8285385400ad01965f/88e49/landingpage.png 1.5x,\n/static/e2e31e3494341d8285385400ad01965f/73c85/landingpage.png 2x"
-              }
-            }
-          }
-        },
-        {
-          "node": {
-            "relativePath": "tradingsharks.png",
-            "name": "tradingsharks",
-            "childImageSharp": {
-              "fixed": {
-                "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAADBklEQVQozyWSbWxTVRjH7xeNEvEFurG1vfe2a+92d9ve26537Vjp3qhssMEmbuOltqVr59rNiTrHMIAJiTEm0xA/YowmGvg2XkIGQYKJIX4RmAgsW9SQmBhe4/tbRMnPs/nhl5Nznpwnv/9zjpTs6Ka1owcr3ERFhVsgU13loXKNisMh43T6cIizJVatduKoVJDVOhTFh6r60DUDy1yLEbQxwgmk7FCRQnmM/u5OWqMhmsMBDLUK06OwcV0b7ckW6hUvQa+PgKrid7uo9flY3/Ma2wvvMZiZprOrm4HBXvq2TyLlh4uUx3eTTe8kprnRnU/hevIRIo5Knm3fQGPIxBImpjBqUP1Ybg96tYypxQhqTfjlEBUrHydimZRGdyPl8jnGRMNX90yxIbmWNmHY2mjRZcfY1reV7pZ2op5aQi4vAae6jF4lE3DLGC5hW1WN7lJpEUn6+weQCvkM5ZECI8UsExMv8/qB/ezbu4fJyUkK2Ryb4olluyXCHj8RgVGtYArbkGCpWdwME4s38XSqE6k8UuSF0jBDz/WTHthMbsdWipltjJYK7NjSQ6I+hC0MG1SNmMB0e4l4a4n6dGy/TkNNLV0d65EVRVgmkdK7CmSGy7z51ttMTx/i4ME3eGViiqFdGXrW2VgeDdtrEKsxaFb8NIs1YUSI1wUFgeWGz/T2stqp0TeQEzMUr/zS1H5Onj7HidlzvP/BR2K4o9imhb7GRVBEXYoWkGuIavUkAlGS9REs2UOjppOM2KRSKVY8VsGW3kGkF8slnh/Kk8tlBTnKo2OUxsZJtrbhcYl/+egK1FWVGCKq5fVjC6tUcxuZnXmOnvmc2S8WaWlPIUkS6bQwPDv3LYePHOPDmdMc/+wyn1y5wfn577l48y/OL9xifO8B6vw1PPHwQzQ1xDkye4FLt/7m6k8w/yss/gmnLn7NvncOM/fdD0hXf/6/cF0w/xtcE/uvfoS5uw+4Ji4t/A4zF67w7sczfLp4m4U/4Mt7D0T9Xy7fuc+l2/e5/gt88w/cEPf/AzfvvlWERSL2AAAAAElFTkSuQmCC",
-                "width": 350,
-                "height": 184,
-                "src": "/static/643103a330e3700b1fc6c5abf251bbbc/a5370/tradingsharks.png",
-                "srcSet": "/static/643103a330e3700b1fc6c5abf251bbbc/a5370/tradingsharks.png 1x,\n/static/643103a330e3700b1fc6c5abf251bbbc/88e49/tradingsharks.png 1.5x,\n/static/643103a330e3700b1fc6c5abf251bbbc/73c85/tradingsharks.png 2x"
               }
             }
           }
