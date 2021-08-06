@@ -48,7 +48,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'mintabpage.npg',
+    img: 'mintabpage.png',
     title: 'Minimalist New Tab',
     info: 'Minimalist start page inspired by r/startpages, built in React, helped develop further React practises and converting ideas to reality using CSS.',
     info2: '',
