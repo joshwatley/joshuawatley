@@ -56,14 +56,17 @@ const Projects = () => {
                             <p>{skills ||'Add your skills'}</p>
 
                       </div>
-                      <a
+                      {url && (
+                        <a
                         target="_blank"
                         rel="noopener noreferrer"
                         className="cta-btn cta-btn--project"
                         href={url || '#!'}
-                      >
-                        See Live
-                      </a>
+                        >
+                         See Live
+                        </a>
+
+                      )}
 
                       {repo && (
                         <a
@@ -124,8 +127,8 @@ const Projects = () => {
       <Container>
         <div className="project2-wrapper">
           <h1>OTHER PROJECTS</h1>
-          <Row key={5}>
-                <Col lg={4} sm={12}>
+          {/* <Row key={5}> */}
+                {/* <Col lg={4} sm={12}>
                   <Fade
                     left={isDesktop}
                     bottom={isMobile}
@@ -150,19 +153,10 @@ const Projects = () => {
                       >
                         View Code
                       </a>
-
-                        {/* <a
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="cta-btn text-color-projects"
-                          href="testrepo"
-                        >
-                          Source Code
-                        </a> */}
                     </div>
                   </Fade>
-                </Col>
-                <Col lg={8} sm={12}>
+                </Col> */}
+                {/* <Col lg={8} sm={12}>
                   <Fade
                     right={isDesktop}
                     bottom={isMobile}
@@ -198,11 +192,11 @@ const Projects = () => {
                       </a>
                     </div>
                   </Fade>
-                </Col>
-              </Row>
+                </Col> */}
+              {/* </Row> */}
 
               {/*  copy this row and increment in order to add a new mini project - the featured projects are in data. */}
-              <Row key={6}>
+              <Row key={5}>
                 <Col lg={4} sm={12}>
                   <Fade
                     left={isDesktop}

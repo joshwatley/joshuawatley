@@ -38,12 +38,11 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'fypimage.png',
+    img: 'fypimage.jpeg',
     title: 'Dissertation University Project',
-    info: 'Achieved 71%. Kanban Board developed in Java for Android. Was a year spent undertaking end to end development, starting from requirements and research into design then implementation. Great experience learning and understanding NoSQL and Google Firebase.',
+    info: 'Achieved 71%. Kanban Board developed in Java for Android. Was a year spent undertaking end to end development including an extensive report, starting from requirements and research into design then implementation. Great experience learning and understanding NoSQL and Google Firebase.',
     info2: '',
     skills: 'HTML / CSS  /  JS  /  ReactJS  /  Gatsby',
-    url: 'https://joshwatley.netlify.app',
     repo: 'https://github.com/joshwatley/Kanban-Board-Final-Year-Project',
   },
   {
