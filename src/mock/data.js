@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Joshua Watley | Web Developer',
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Welcome to my web development portfolio', 
+  description: 'Welcome to my web development portfolio',
 };
 
 // HERO DATA
@@ -55,6 +55,16 @@ export const projectsData = [
     skills: 'HTML  /  CSS  /  REACTJS  /  APIS',
     url: 'https://mintabbyjw.netlify.app',
     repo: 'https://github.com/joshwatley/minimal-tab-page', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'optimiseyoursearch.png',
+    title: 'optimiseyoursearch.net',
+    info: 'Personal Project having some fun with React.JS - Allows user to search Google with preditermined filters already applied such as choosing the site to search as well as the date to define the search by.',
+    info2: '',
+    skills: 'HTML  /  CSS  /  JS',
+    url: 'https://www.optimiseyoursearch.net',
+    repo: 'https://github.com/joshwatley/joshwatley.github.io', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
