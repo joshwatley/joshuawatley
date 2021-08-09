@@ -59,12 +59,12 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'optimiseyoursearch.png',
-    title: 'optimiseyoursearch.net',
+    title: 'OptimiseYourSearch.net',
     info: 'Personal Project having some fun with React.JS - Allows user to search Google with preditermined filters already applied such as choosing the site to search as well as the date to define the search by.',
     info2: '',
     skills: 'HTML  /  CSS  /  JS',
     url: 'https://www.optimiseyoursearch.net',
-    repo: 'https://github.com/joshwatley/joshwatley.github.io', // if no repo, the button will not show up
+    repo: 'https://github.com/joshwatley/streamlined-google-search', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
